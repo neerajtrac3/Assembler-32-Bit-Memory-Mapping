@@ -1,6 +1,11 @@
 # Assembler-32-Bit-Memory-Mapping
 Portal for Assembler 32 bit Memory Mapping
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Assembler_32_Bit_Memory_Mapping-Technical_Publication-blue?style=for-the-badge">
+</p>
+
+
 📘 Assembler 32‑Bit Memory Mapping
 Technical Publication Authored by Neeraj Aggarwal
 This repository contains the original technical publication authored by Neeraj Aggarwal on Assembler 32‑Bit Memory Mapping, originally published in Infosys KShop (Document ID: 515640).
