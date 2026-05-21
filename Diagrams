@@ -1,1 +1,6 @@
+```mermaid
+flowchart TD
+    A[PSA - Prefix Storage Area] --> B[TCB - Task Control Block]
+    B --> C[ASCB - Address Space Control Block]
+    C --> D[User Program Area]
 
