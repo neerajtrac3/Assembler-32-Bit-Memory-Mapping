@@ -1,4 +1,3 @@
-# Assembler-32-Bit-Memory-Mapping
 
 <p align="center">
   <img src="https://img.shields.io/badge/Assembler_32_Bit_Memory_Mapping-Technical_Publication-blue?style=for-the-badge">
