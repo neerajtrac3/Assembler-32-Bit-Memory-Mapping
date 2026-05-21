@@ -124,6 +124,11 @@ This publication has been used across multiple enterprise programs, including th
 🔗 LinkedIn: https://linkedin.com/in/neerajtrac3  
 🐙 GitHub: https://github.com/neerajtrac3  
 
+Metadata/
+    publication-details.md
+    authorship-proof.md
+    usage-history.md
+
 
 
 Impact summaries
