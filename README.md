@@ -56,32 +56,6 @@ Document ID: 515640
 
 This repository serves as the public reference version of the original authored work.
 
-📁 Repository Structure
-Code
-Assembler-32-Bit-Memory-Mapping/
-│
-├── README.md
-│
-├── Published/
-│   └── Assembler-32-Bit-Memory-Mapping.pdf
-│
-├── Diagrams/
-│   ├── memory-layout.png
-│   ├── psa-layout.png
-│   └── addressing-modes.png
-│
-├── Samples/
-│   ├── register-usage.asm
-│   ├── save-restore-macro.asm
-│   └── memory-trace-example.asm
-│
-└── Metadata/
-    ├── publication-details.md
-    ├── authorship-proof.md
-    └── usage-history.md
-🔹 Contents of This Repository
-📄 Published Document
-The full PDF version of the authored publication.
 
 🧩 Diagrams
 Visual representations of:
