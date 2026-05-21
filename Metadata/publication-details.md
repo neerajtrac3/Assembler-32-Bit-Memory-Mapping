@@ -18,7 +18,7 @@ This document provides a comprehensive explanation of **OS/390 Assembler memory 
 ## Keywords  
 - OS/390  
 - Assembler  
-- 24‑bit / 31‑bit addressing  
+- 24‑bit / 32‑bit addressing  
 - PSA / TCB / ASCB  
 - Memory mapping  
 - Storage protection  
@@ -33,7 +33,6 @@ This document provides a comprehensive explanation of **OS/390 Assembler memory 
 | 1.0 | June 17, 2011 | Initial publication in Infosys KShop |
 | 1.1 | July 2011 | Added diagrams and addressing mode examples |
 | 1.2 | August 2011 | Updated memory layout explanations |
-| 2.0 | May 2024 | Public reference version published on GitHub |
 
 ---
 
