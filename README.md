@@ -30,6 +30,17 @@ Understanding program flow in Assembler
 
 At the time of authorship, no consolidated reference existed for these topics, making this document a foundational learning asset.
 
+## 🧠 Key Topics Covered
+
+- OS/390 memory architecture  
+- 24‑bit, 31‑bit, and 32‑bit addressing  
+- PSA, TCB, ASCB, and control blocks  
+- Storage protection & key management  
+- Register conventions and save/restore logic  
+- Memory debugging and traceability  
+- Program flow and addressing modes  
+
+
 🔹 Impact & Adoption
 This publication has been used extensively across multiple enterprise programs:
 
@@ -91,5 +102,19 @@ Authorship
 Publication history
 
 Usage across programs
+
+
+## 🏆 About the Author
+
+**Neeraj Aggarwal** is an AI Architecture & Modernization leader with expertise in:
+
+- Legacy system modernization  
+- OS/390 and z/OS Assembler  
+- Banking transformation  
+- Enterprise AI and domain‑specific SLMs  
+- Event‑driven architectures  
+
+This publication has been used across multiple enterprise programs, including the **RBS Rainbow Program**, and remains a foundational reference for engineers working on legacy modernization.
+
 
 Impact summaries
