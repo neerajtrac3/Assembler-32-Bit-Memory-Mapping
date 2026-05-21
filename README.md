@@ -116,5 +116,14 @@ Usage across programs
 
 This publication has been used across multiple enterprise programs, including the **RBS Rainbow Program**, and remains a foundational reference for engineers working on legacy modernization.
 
+---
+
+## 📫 Contact
+
+📧 Email: neerajtrac3@gmail.com  
+🔗 LinkedIn: https://linkedin.com/in/neerajtrac3  
+🐙 GitHub: https://github.com/neerajtrac3  
+
+
 
 Impact summaries
