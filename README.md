@@ -57,6 +57,9 @@ Improving debugging accuracy for memory‑related issues
 
 It became one of the most referenced internal documents for Assembler memory understanding.
 
+[Download the Publication](CR-6A.1%20Publication%20-%20Assembler%2032%20Bit%20Memory%20Mapping.pdf)
+
+
 🔹 Authorship Details
 Author: Neeraj Aggarwal
 
